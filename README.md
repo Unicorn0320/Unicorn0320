@@ -31,11 +31,6 @@
 ### 📊 GitHub 数据
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Unicorn0320&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unicorn0320&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top langs"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Unicorn0320&hide_border=true&locale=zh_Hans" alt="Streak"/>
 </p>
 
