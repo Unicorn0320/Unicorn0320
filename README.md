@@ -34,7 +34,10 @@
 ### 📊 GitHub 数据
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Unicorn0320&hide_border=true&locale=zh_Hans" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Unicorn0320&show_icons=true&hide_border=true&locale=zh-CN" alt="github stats"/>
+</p>
+<p align="center">
+   <img src="https://streak-stats.demolab.com?user=Unicorn0320&hide_border=true&locale=zh_Hans" alt="Streak"/>
 </p>
 
 ### 🚀 我的项目
