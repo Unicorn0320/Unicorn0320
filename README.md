@@ -4,11 +4,14 @@
   <i>山行过半，仍怀热望；枕雨而眠，听风生长。</i>
 </p>
 
-一名喜欢折腾的开发者：沉迷 Java 生态——用 Spring Boot 写接口、用 MySQL 建数据模型、用 Maven 管理工程，正把一个个人网站从数据库一路做到页面。比起「会多少」，更在意「做了多少」：把热爱的事，一件一件做到底。
+一名喜欢折腾的开发者，兼顾嵌入式与后端开发：
+深耕 Java 生态，使用 Spring Boot 搭建接口、MySQL 设计数据模型、Maven 管理项目；同时玩转 STM32 嵌入式开发。
+目前正在独立搭建个人网站，从数据库设计、后端接口一直到前端页面全链路实现。
+比起「会多少技术」，我更在意「落地了多少项目」：把热爱的事，一件一件做到底。
 
-- 🔭 **正在做**：个人网站（React + Spring Boot）
-- 🌱 **正在学**：Java + AI
-- 💬 **联系我**：[邮箱](mailto:baoyuan0320@gmail.com)
+- 🔭 **正在做**：个人网站（React + Spring Boot 全栈项目）
+- 🌱 **正在学**：Java + AI 应用开发
+- 💬 **联系我**：<a href="mailto:baoyuan0320@gmail.com">baoyuan0320@gmail.com</a>
 
 ### 🛠️ 技术栈
 
@@ -33,11 +36,13 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Unicorn0320&hide_border=true&locale=zh_Hans" alt="Streak"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Unicorn0320&show_icons=true&hide_border=true&locale=zh-CN" alt="github stats"/>
+</p>
 
 ### 🚀 我的项目
 
-- **[smart_home](https://github.com/Unicorn0320/smart_home)** ⭐ — 基于 STM32H723ZETx 的多传感器环境监测与控制固件：定时采集温湿度、光照、CO₂、气压与距离，支持按键控制风扇与三色灯联动
-
----
+- **[smart_home](https://github.com/Unicorn0320/smart_home)** ⭐
+  基于 STM32H723ZETx 的多传感器环境监测与控制固件。定时采集温湿度、光照、CO₂、气压、距离等环境数据，支持按键控制风扇与三色灯联动。
 
 <p align="center"><i>🌧️ 雨落半山，代码生长。</i></p>
